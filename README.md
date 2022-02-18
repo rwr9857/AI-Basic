@@ -1,1 +1,1 @@
-# AI-Basic
+# <a href="https://github.com/wikibook/machine-learning/tree/2.0"><cite>나의 첫 머신러닝 딥러닝</cite></a>
